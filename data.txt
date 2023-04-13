@@ -1,4 +1,0 @@
-facebook | someexp@user.com | 123456
-wiki | carazzy@sgal.com | lsjfýek
-aasd | someexp@user.com | asd
-amazon | someexp@user.com | 123456
